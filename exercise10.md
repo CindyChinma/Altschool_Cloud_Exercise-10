@@ -1,0 +1,1 @@
+![IP address screenshot](my_image.png "ip adress calculation")
